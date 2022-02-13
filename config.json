@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "block": true,
+  "ads": true,
+  "blockUrl": "https://www.youtube.com",
+  "appID": "ca-app-pub-1473387262476360~1778527087",
+  "banner1": "ca-app-pub-1473387262476360/8709916886",
+  "banner2": "ca-app-pub-1473387262476360/8739166037",
+  "native1": "ca-app-pub-1473387262476360/6327296123",
+  "open1": "ca-app-pub-1473387262476360/6514481469",
+  "interstitial1": "ca-app-pub-1473387262476360/6083753543",
+  "rewarded1": "ca-app-pub-1473387262476360/3516427811"
+}
